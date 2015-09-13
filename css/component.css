@@ -1,11 +1,11 @@
 /* General styles for all menus */
 .cbp-spmenu {
-	  background: #1D2584;
+	  background: #424557;
 	position: fixed;
 }
  button#showLeftPush {
   border: none;
-  background: #1D2584;
+  background: #424557;
   padding: 18px 18px;
   outline: none;
   position: absolute;
@@ -18,7 +18,7 @@
   padding: 17px;
   margin: 0;
   font-weight: 300;
-  background: #E6D34C;
+  background: #4398BD;
   text-align: center;
   text-transform: uppercase;
 }

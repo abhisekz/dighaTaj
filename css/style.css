@@ -55,7 +55,7 @@ label{
 /*--header--*/
 .top-header {
   padding: 1em 0;
-  background-color: #000;
+  background-color: #424557;
 }
 p.location,p.mail,p.phone{
   float: left;
@@ -195,7 +195,7 @@ ul.slides li {
 	-moz-border-radius:87px;
 	-ms-border-radius:87px;
 	-o-border-radius:87px;
-	  border: 6px solid #000;
+	  border: 6px solid #424557;
 	  margin:0 auto;
 }
 .bottom {
@@ -1080,7 +1080,7 @@ h3.tittle.two {
 .copy {
   text-align: center;
   padding:1em 1em;
-    background: #1D2584;
+    background: #424557;
 }
 .copy p {
   color: #fff;
